@@ -62,4 +62,6 @@
 
 Feel free to explore my repositories and star the ones you like ⭐
 
+*Unlocking all the achievements one by one*
+
 </div>
