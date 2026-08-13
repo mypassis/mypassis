@@ -17,6 +17,7 @@
 - 🌱 Building projects with modern web tech (HTML, CSS, JS, TypeScript)
 - 💡 Love turning ideas into working prototypes quickly with AI tools
 - 🎮 Making small games and fun UI experiments
+- 🏆 Collecting GitHub achievements
 
 ---
 
